@@ -7,7 +7,7 @@ No design skills. No editing software. No waiting around. Just upload, choose, a
 ---
 ## Live Demo
 
-🔗 [https://neuralbrush.azurewebsites.net](https://neuralbrush-bcevd8h4akdzb6ah.centralindia-01.azurewebsites.net/)
+🔗 [neuralbrush.vijaipatange.in/](https://neuralbrush.vijaipatange.in/)
 
 ---
 ## ✨ See It In Action
